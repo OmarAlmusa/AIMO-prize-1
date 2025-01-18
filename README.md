@@ -23,6 +23,8 @@ The repository includes:
 ---
 
 ## References
+- Link to my original notebook: [Notebook](https://www.kaggle.com/code/anrenk/aimo-llm-class-deepseek)
+- Link to RAG version of the notebook: [Notebook](https://www.kaggle.com/code/anrenk/deepseek-class-rag-question)
 - Kaggle Competition Page: [AIMO on Kaggle](https://kaggle.com/competitions/ai-mathematical-olympiad-prize)
 - DeepSeek main page: [DeepSeek](https://www.deepseek.com/)
 - Hugging Face Transformers Documentation: [Transformers](https://huggingface.co/transformers/)
